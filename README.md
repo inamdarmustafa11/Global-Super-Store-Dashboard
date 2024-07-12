@@ -36,5 +36,5 @@ This dashboard enables data-driven decision-making by visualizing critical metri
 [Click here to view the live dashboard](https://t.ly/cUooH)
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](Dashboard Screenshot.jpg)
+[Dashboard Screenshot](Dashboard Screenshot.jpg)
 
