@@ -38,10 +38,3 @@ This dashboard enables data-driven decision-making by visualizing critical metri
 ## Dashboard Screenshot
 ![Dashboard Screenshot](link-to-screenshot.png)
 
-## How to Use
-Download the `.pbix` file and open it with Power BI Desktop to explore the data and visuals.
-
-## Contact
-Feel free to reach out if you're interested in learning more about this project or exploring potential collaborations.
-
-#PowerBI #DataAnalysis #Dashboard #BusinessIntelligence #DataVisualization #SalesAnalysis #MarketInsights #DataDriven #GlobalSuperStore
