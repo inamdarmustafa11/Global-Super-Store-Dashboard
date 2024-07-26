@@ -1,7 +1,6 @@
 # Global-Super-Store-Dashboard
 ## Live Dashboard
 [Click here to view the live dashboard](https://t.ly/cUooH)
-
 ## Dashboard Screenshot 
 [Dashboard Screenshot]
 (https://github.com/inamdarmustafa11/Global-Super-Store-Dashboard/blob/6e7083688c99859c48b6f3c40c7a2701d6437e1c/Dashboard%20Screenshot.jpg)
