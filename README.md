@@ -2,7 +2,7 @@
 ## Live Dashboard
 [Click here to view the live dashboard](https://t.ly/cUooH)
 ## Dashboard Screenshot
-[Dashboard Screenshot](https://github.com/inamdarmustafa11/Global-Super-Store-Dashboard/blob/2fe6d8618e5525cf4bba0a15d73c17576f5c1fcb/Dashboard%20Screenshot.jpg)
+[Dashboard Screenshot](https://github.com/inamdarmustafa11/Global-Super-Store-Dashboard/blob/2bffc8ec0e501f8d9dd572884fc9fa4707cba25a/Dashboard%20Screenshot.jpg)
 
 ## Overview
 I developed a comprehensive **Global Super Store Dashboard** using Power BI that provides deep insights into year-wise sales, segment-wise sales, and market performance.
