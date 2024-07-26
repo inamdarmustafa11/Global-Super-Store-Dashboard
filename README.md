@@ -3,6 +3,8 @@ A comprehensive Power BI dashboard providing insights into global sales performa
 
 ## Live Dashboard
 [Click here to view the live dashboard](https://t.ly/cUooH)
+## Dashboard Screenshot
+[Dashboard Screenshot](https://github.com/inamdarmustafa11/Global-Super-Store-Dashboard/blob/main/Dashboard%20Screenshot.jpg)
 
 ## Overview
 I developed a comprehensive **Global Super Store Dashboard** using Power BI that provides deep insights into year-wise sales, segment-wise sales, and market performance.
@@ -33,7 +35,3 @@ I developed a comprehensive **Global Super Store Dashboard** using Power BI that
   - **Loss-Making Products:** Lesro Training, Bevis Wood, Chromcraft.
 
 This dashboard enables data-driven decision-making by visualizing critical metrics and trends.
-
-## Dashboard Screenshot
-[Dashboard Screenshot](https://github.com/inamdarmustafa11/Global-Super-Store-Dashboard/blob/main/Dashboard%20Screenshot.jpg)
-
